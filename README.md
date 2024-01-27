@@ -1,4 +1,8 @@
-<a href="https://github.com/RFIunknown">
-  <img src="https://cardivo.vercel.app/api?name=RFIunknown&description=I%write%everything%I%want%to%write
-&image=https://telegra.ph/file/7e8b92b8f28ce650924a0.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=mas_.giyuu&github=RFIunknown&pattern=leaf&colorPattern=%23eaeaea" />
-</a>
+<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=200&duration=2500&pause=1000&color=E61DF7&center=true&vCenter=true&width=500&height=71&lines=I+Know+You+Gay+%3F" alt="Typing SVG" /></a>
+
+<p align="center">
+  <b>R?</b>
+  </p>
+<br>
